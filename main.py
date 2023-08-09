@@ -66,7 +66,6 @@ class Character(pygame.sprite.Sprite):
         self.animate()
         if self.is_jumping:
             self.jump()
-        print(self.jump_count)
         self.rect.center = (self.x_pos, self.y_pos)
 
     def animate(self):
