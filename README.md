@@ -1,4 +1,4 @@
-# dino-run
+# Dino-run
 Python remake of google's Dinosaur game
 
 Concepts learned & used:
